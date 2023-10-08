@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Adeel</h1>
-I am a computational sociologist currently enrolled in Sociology and Social Data Analytics (STEM) program at The Pennsylvania State University. I use agent-based modeling, epidemiological methods, spatial econometrics, and network analysis among other techniques on **massive datasets** to understand collective behavior.
+I am a computational sociologist currently enrolled in Sociology and Social Data Analytics (STEM) program at The Pennsylvania State University. I use agent-based modeling, epidemiological methods, spatial econometrics, and network analysis among other techniques on big datasets to understand collective behavior.
 
 <p align="left"> <a href="https://twitter.com/abadeeel" target="blank"><img src="https://img.shields.io/twitter/follow/abadeeel?logo=twitter&style=for-the-badge" alt="abadeeel" /></a> </p>
 
 - 🔭 My current work uses **Twitter, Reddit, and Spotify Data** to understand (i) *how hate speech is expressed online*, (ii) *how mental health is discussed online*, (iii) *how collaboration in the cultural markets happen*.
-- Check out my ongoing projects [https://abadeel.com/ongoing-projects/).
+- Check out my [ongoing projects](https://abadeel.com/ongoing-projects/).
 
-- 🌱 I’m currently learning **Natural Language Processing and Network Analysis.**
+- 🌱 My expertise are telling stories using **Natural Language Processing and Network Analysis.**
 
-- 👨‍💻 All of my publications are available at [https://abadeel.com/publications/](https://abadeel.com/publications/)
+- 👨‍💻 All of my publications are available [here](https://abadeel.com/publications/).
 
-- 📝 I regularly write articles on [https://abadeel.com/blog/](https://abadeel.com/blog/).
+- 📝 I regularly write articles on my [ personal blog](https://abadeel.com/blog/).
 
-- 📫 How to reach me **abadeel@live.com**
+- 📫 You can reach me at **abadeel@live.com**
 
-- 📄 Know about my experiences [https://abadeel.com/wp-content/uploads/2023/07/Abdul-Basit-Adeel_CV.pdf](https://abadeel.com/wp-content/uploads/2023/07/Abdul-Basit-Adeel_CV.pdf)
+- 📄 Know about my experiences: [CV](https://abadeel.com/wp-content/uploads/2023/07/Abdul-Basit-Adeel_CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
