@@ -8,11 +8,11 @@ I am a computational sociologist currently enrolled in Sociology and Social Data
 
 - 👨‍💻 All of my publications are available [here](https://abadeel.com/publications/).
 
-- 📝 I regularly write articles on my [ personal blog](https://abadeel.com/blog/).
+- 📝 I regularly write academic and data science articles on my [ personal blog](https://abadeel.com/blog/).
 
 - 📫 You can reach me at **abadeel@live.com**
 
-- 📄 Know about my experiences: [CV](https://abadeel.com/wp-content/uploads/2023/07/Abdul-Basit-Adeel_CV.pdf)
+- 📄 To know about my experiences, [check my CV](https://abadeel.com/wp-content/uploads/2023/07/Abdul-Basit-Adeel_CV.pdf).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
