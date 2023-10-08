@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abdul Basit Adeel</h1>
-<h3 align="center">I am a computational sociologist currently enrolled in Sociology and Social Data Analytics (STEM) program at The Pennsylvania State University. I use agent-based modeling, epidemiological methods, spatial econometrics, and network analysis, among other techniques to understand collective behavior.</h3>
+<h1 align="center">Hi 👋, I'm Adeel</h1>
+I am a computational sociologist currently enrolled in Sociology and Social Data Analytics (STEM) program at The Pennsylvania State University. I use agent-based modeling, epidemiological methods, spatial econometrics, and network analysis, among other techniques to understand collective behavior.
 
 <p align="left"> <a href="https://twitter.com/abadeeel" target="blank"><img src="https://img.shields.io/twitter/follow/abadeeel?logo=twitter&style=for-the-badge" alt="abadeeel" /></a> </p>
 
