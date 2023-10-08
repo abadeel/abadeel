@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adeel</h1>
 I am a computational sociologist currently enrolled in Sociology and Social Data Analytics (STEM) program at The Pennsylvania State University. I use agent-based modeling, epidemiological methods, spatial econometrics, and network analysis among other techniques on big datasets to understand collective behavior.
 
-<p align="left"> <a href="https://twitter.com/abadeeel" target="blank"><img src="https://img.shields.io/twitter/follow/abadeeel?logo=twitter&style=for-the-badge" alt="abadeeel" /></a> </p>
-
 - 🔭 My current work uses **Twitter, Reddit, and Spotify Data** to understand (i) *how hate speech is expressed online*, (ii) *how mental health is discussed online*, (iii) *how collaboration in the cultural markets happen*.
-- Check out my [ongoing projects](https://abadeel.com/ongoing-projects/).
+-- Check out my [ongoing projects](https://abadeel.com/ongoing-projects/).
 
 - 🌱 My expertise are telling stories using **Natural Language Processing and Network Analysis.**
 
