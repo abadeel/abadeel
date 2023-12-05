@@ -12,7 +12,7 @@ I am a computational sociologist currently enrolled in Sociology and Social Data
 
 - 📫 You can reach me at **abadeel@live.com**
 
-- 📄 To know about my experiences, [check my CV](https://abadeel.com/wp-content/uploads/2023/07/Abdul-Basit-Adeel_CV.pdf).
+- 📄 To know about my experiences, [check my CV](https://abadeel.com/resume/).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
